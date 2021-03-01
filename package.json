@@ -1,0 +1,27 @@
+{
+  "name": "@cyon/vue-file-selector",
+  "version": "0.0.0",
+  "description": "A Vue 3 headless file selector component",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cyon/vue-file-selector.git"
+  },
+  "keywords": [
+    "vue",
+    "vue",
+    "3",
+    "file",
+    "selector",
+    "headless"
+  ],
+  "author": "Max Gfeller <mg@cyon.ch>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyon/vue-file-selector/issues"
+  },
+  "homepage": "https://github.com/cyon/vue-file-selector#readme"
+}
