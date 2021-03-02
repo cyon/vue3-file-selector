@@ -1,5 +1,5 @@
 <template>
-  <input class="hidden" type="file" ref="inputRef" :multiple="allowMultiple" :accept="accept" @change="updateFiles">
+  <input style="display: none;" type="file" ref="inputRef" :multiple="allowMultiple" :accept="accept" @change="updateFiles">
   <slot :openDialog="openDialog" />
 </template>
 <script>
