@@ -1,5 +1,5 @@
 {
-  "name": "@cyon/vue-file-selector",
+  "name": "vue3-file-selector",
   "version": "0.0.0",
   "description": "A Vue 3 headless file selector component",
   "main": "src/index.js",
