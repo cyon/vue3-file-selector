@@ -98,7 +98,7 @@ export default {
     FileSelector,
     DialogButton,
   },
-  setup() {
+  setup () {
     const files = ref([])
     const previews = ref([])
 
