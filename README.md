@@ -69,7 +69,8 @@ This can be done as follows:
 ```vue
 <template>
   <file-selector v-model="files" v-slow="{ openDialog }">
-  <x-button @click="openDialog">Add files...</x-button>
+    <x-button @click="openDialog">Add files...</x-button>
+  </file-selector>
 </template>
 ```
 
