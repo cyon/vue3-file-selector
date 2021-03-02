@@ -15,6 +15,8 @@ Here's the parts:
 
 ## Basic example
 
+[See it in action.](https://codesandbox.io/s/sweet-fog-f5wgd?file=/src/App.vue)
+
 Here's a basic example with drag and drop and a list of the selected files.
 
 ```vue
