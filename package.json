@@ -1,6 +1,6 @@
 {
   "name": "vue3-file-selector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vue 3 headless file selector component",
   "main": "dist/vue3-file-selector.common.js",
   "scripts": {
