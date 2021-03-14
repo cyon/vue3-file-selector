@@ -2,7 +2,7 @@
   "name": "vue3-file-selector",
   "version": "1.0.0",
   "description": "A Vue 3 headless file selector component",
-  "main": "src/index.js",
+  "main": "dist/",
   "scripts": {
     "build": "vue-cli-service build --target lib src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
