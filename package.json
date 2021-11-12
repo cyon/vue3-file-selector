@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/cyon/vue-file-selector.git"
+    "url": "git+ssh://git@github.com/cyon/vue3-file-selector.git"
   },
   "keywords": [
     "vue",
@@ -22,9 +22,9 @@
   "author": "Max Gfeller <mg@cyon.ch>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cyon/vue-file-selector/issues"
+    "url": "https://github.com/cyon/vue3-file-selector/issues"
   },
-  "homepage": "https://github.com/cyon/vue-file-selector#readme",
+  "homepage": "https://github.com/cyon/vue3-file-selector#readme",
   "devDependencies": {
     "@vue/cli-service": "^4.5.11",
     "@vue/compiler-sfc": "^3.0.7",
